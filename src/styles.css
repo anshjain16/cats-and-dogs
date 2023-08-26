@@ -1,0 +1,231 @@
+.Container{
+top: 0px;
+left: 0px;
+width: 1440px;
+height: 810px;
+background: #FDE3D9 0% 0% no-repeat padding-box;
+opacity: 1;
+position: relative;
+}
+
+.RightSide{
+top: 0px;
+left: 720px;
+width: 720px;
+height: 810px;
+background: transparent url('img/Group 2.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+
+.NavbarRight{
+top: 48px;
+left: 1171px;
+width: 209px;
+height: 14px;
+opacity: 1;
+position: absolute;
+display: flex;
+flex-direction: row;
+
+}
+
+.NavLink1 {
+
+/* width: 25px; */
+height: 14px;
+letter-spacing: var(--unnamed-character-spacing-0);
+margin: 0 10px;
+font-size: 12px;
+text-align: left;
+display: inline;
+letter-spacing: 0px;
+color: #F7F7F7;
+opacity: 1;
+size: 12px;
+
+}
+
+.NavLink2 {
+  
+    /* width: 25px; */
+    height: 14px;
+    font-size: 12px;
+    margin: 0 10px;
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    display: inline;
+    letter-spacing: 0px;
+    color: #F7F7F7;
+    opacity: 1;
+    size: 12px;
+
+    
+}
+
+.NavLink3   {
+   
+    /* width: 25px; */
+    height: 14px;
+    font-size: 12px;
+    margin: 0 10px;
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    display: inline;
+    letter-spacing: 0px;
+    color: #F7F7F7;
+    opacity: 1;
+    size: 12px;
+    
+}
+
+.RightText{
+top: 501px;
+left: 830px;
+width: 220px;
+height: 124px;
+opacity: 1;
+}
+
+.Righthead{
+top: 501px;
+left: 831px;
+width: 100px;
+height: 20px;
+font-size: 18px;
+font-weight: bold;
+text-align: left;
+letter-spacing: -0.12px;
+color: #FFFFFF;
+opacity: 1;
+position: absolute;
+}
+
+.RightSubhead{
+top: 550px;
+left: 831px;
+width: 170px;
+font-size: 16px;
+height: 20px;
+text-align: left;
+letter-spacing: -0.12px;
+color: #FFE8DF;
+opacity: 1;
+position: absolute;
+}
+
+.logo{
+top: 33px;
+left: 41px;
+width: 194px;
+height: 62px;
+background: transparent url('img/Cat-N-Dog-Logo copy.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+
+.leftHeading{
+top: 359px;
+left: 60px;
+width: 571px;
+height: 162px;
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+letter-spacing: 0px;
+color: #3E3E3E;
+opacity: 1;
+position: absolute;
+font-size: 42px;
+}
+
+.leftText{
+top: 542px;
+left: 60px;
+width: 440px;
+height: 108px;
+letter-spacing: var(--unnamed-character-spacing--0-11);
+text-align: left;
+letter-spacing: -0.11px;
+color: #6D6D6D;
+opacity: 1;
+position: absolute;
+}
+
+.AppStoreBadge{
+top: 706px;
+left: 60px;
+width: 160px;
+height: 53px;
+background: transparent url('img/AppStoreBadge.svg') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+
+.GooglePlayBadge{
+top: 693px;
+left: 232px;
+width: 207px;
+height: 80px;
+position: absolute;
+/* UI Properties */
+background: transparent url('img/google-play-badge.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.social{
+    top: 762px;
+    left: 1326px;
+    width: 54px;
+    height: 11px;
+    opacity: 1;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+}
+
+.social-items1{
+    width: 10px;
+    height: 11px;
+    margin: 0 3px;
+    background: transparent url('img/FB-icon-black.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.social-items2{
+    width: 10px;
+    height: 11px;
+    margin: 0 3px;
+    background: transparent url('img/linkedin-icon-black.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.social-items3{
+    width: 10px;
+    height: 11px;
+    margin: 0 3px;
+    background: transparent url('img/Twitter-icon-black.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.b1{
+    top: 642px;
+left: 847px;
+width: 8px;
+height: 8px;
+/* UI Properties */
+background: #FEE7DE 0% 0% no-repeat padding-box;
+border-radius: 4px;
+opacity: 1;
+position: absolute;
+}
+
+.b2{
+    top: 644px;
+left: 830px;
+width: 5px;
+height: 5px;
+border: 1px solid #FEE7DE;
+border-radius: 3px;
+opacity: 1;
+position: absolute;
+}
